@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Contact Page</title>
+    </head>
+    <body>
+        <h3><a href="../index.html">Home</a></h3>
+        <h1>Welcome to contact page</h1>
+        <h3>You can reach us using this form</h3>
+        
+        <div id="contact-form">
+            <form action="../thankyou.html" method="get" target="_blank">
+                <fieldset>
+                    <legend>Contact Form</legend>
+                    <label for="fullname">Full Name:</label>
+
+                    <input type="text" name="fullname" id="fullname" placeholder="Bharat Kumar">
+                    <br><br>
+
+                    <label for="email">Email:</label>
+                    <input type="email" name="email" id="email" placeholder="abcde@gmail.com">
+                    <br><br>
+
+                    <label for="phone">Phone:</label>
+                    <input type="number" name="phone" id="phone" placeholder="986734678">
+                    <br><br>
+
+                    <label for="password">Password:</label>
+                    <input type="password" name="password" id="password">
+                    <br><br>
+
+                    <label for="courses">Select Favourite Courses: </label> &nbsp; &nbsp; &nbsp; &nbsp; 
+                    <label for="html">HTML</label>
+                    <input type="radio" name="courses" id="html" value="html">&nbsp; &nbsp;&nbsp;
+                    <label for="css">CSS</label> 
+                    <input type="radio" name="courses" id="css" value="css">&nbsp; &nbsp;&nbsp;
+                    <label for="js">JavaScript</label>
+                    <input type="radio" name="courses" id="js" value="javascript">&nbsp; &nbsp;&nbsp;
+                    <label for="react">React</label>
+                    <input type="radio" name="courses" id="react" value="react">&nbsp; &nbsp;&nbsp;
+                    <label for="react">Python</label>
+                    <input type="radio" name="courses" id="python" value="python">
+                    <br><br>
+                    
+                    <label for="payment_method">Choose payment method: </label>
+                    <select name="payment" id="payment_method">
+                        <option value="debitcard">Debit Card</option>
+                        <option value="creditcard">Credit Card</option>
+                        <option value="phonepay">Phone Pay</option>
+                        <option value="googlepay">Google Pay</option>
+                        <option value="paytm">Paytm</option>
+                    </select>
+                    <br><br>
+
+                    <label for="feedback">Give your feedback: </label><br>
+                    <textarea name="feedback" id="feedback" cols="30" rows="5">Write from here...</textarea>
+                    <br><br>
+                    <button type="submit">Submit</button>
+                </fieldset>                
+            </form>
+        </div>              
+    </body>
+</html>
