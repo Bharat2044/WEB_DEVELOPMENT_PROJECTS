@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML Forms</title>
+    <link rel="shortcut icon" href="logo.png" type="image/x-icon">
+    <link rel="stylesheet" href="styles.css">
+    
+</head>
+<body>
+    <h1>Registration Forms</h1>
+    <h2>All fields are mandtory</h2>
+    <form action="thankyou.html" method="post" target="_blank">
+        <fieldset>
+            <legend> <b>Student Details:</b> </legend>
+            <label for="fname">Enter First Name: </label><br>
+            <input type="text" id="fname" name="fname" placeholder="Bharat" required maxlength="10"><br><br>
+
+            <label for="lname">Enter Last Name: </label><br>
+            <input type="text" id="lname" name="lname" placeholder="Kumar" required maxlength="10"><br><br>   
+
+            <label for="email">Enter Email: </label><br>
+            <input type="email" id="email" name="email" placeholder="bk9955204451@gmail.com" minlength="10" maxlength="30" size="30" required><br><br>    
+
+            <label for="Phone">Enter Phone Number: </label><br>
+            <input type="number" id="Phone" name="Phone" placeholder="6283107346" size="13" minlength="10" maxlength="13" required><br><br>
+            
+            <label for="pwd">Enter Password: </label><br>
+            <input type="password" id="pwd" name="pwd" required><br><br>
+
+            <label for="img">Image: </label><br>
+            <input type="image" src="img.jpg" id="img" name="img" height="60" width="80" readonly required><br><br>
+
+            <label for="cvr">Upload Your CV and Resume: </label><br>
+            <input type="file" id="cvr" name="cvr" multiple required><br><br>
+
+            <label for="branch">Enter Your Branch Name: </label><br>
+            <input type="radio" id="cse" name="branch" checked>
+            <label for="cse">CSE</label>
+            <input type="radio" id="ece" name="branch">
+            <label for="ece">ECE</label>
+            <input type="radio" id="civil" name="branch">
+            <label for="civil">Civil</label><br><br>
+
+            <label for="pro">Enter Your Favourite Programming Language: </label><br>
+            <input type="checkbox" id="c" name="c" checked>
+            <label for="c">C</label><br>
+            <input type="checkbox" id="cpp" name="cpp">
+            <label for="cpp">C++</label><br>
+            <input type="checkbox" id="java" name="java">
+            <label for="java">Java</label><br>
+            <input type="checkbox" id="py" name="py" required>
+            <label for="py">Python</label><br>
+            <br><br>
+
+            <label for="marriage">Select Your Favourite Actress: </label>
+            <select class="" name="expected" size="1">
+                <option value="kf">Katrina Kaif</option>
+                <option value="dp">Deepika Padukone</option>
+                <option value="pc" selected>Priyanka Chopra</option>
+                <option value="sl">Sunny Leone</option>
+                <option value="ms">Malika Sherawat</option>
+                <option value="jk">Janvi Kapoor</option>
+            </select><br><br>
+
+            <p>Please Give Your Suggestion:</p>
+            <textarea name="prefences" rows="5" cols="50"></textarea><br><br>
+
+            <input type="button" value="Submit" name="Submit">
+            <input type="reset" name="Reset">
+        </fieldset>        
+    </form>
+</body>
+</html>
