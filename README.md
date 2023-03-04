@@ -1,4 +1,5 @@
 # **`WEB_DEVELOPMENT_PROJECTS`**
+<hr>
 
 ## **[1. HTML Projects](./01.%20HTML-Projects)**
 ###  &nbsp;&nbsp;&nbsp;&nbsp;**[01.time-table-project 1](./01.%20HTML-Projects/01.time-table-project%201/)**
