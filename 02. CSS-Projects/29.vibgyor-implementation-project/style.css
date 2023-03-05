@@ -1,0 +1,42 @@
+h1 {
+    font-family: 'Goudy Bookletter 1911', serif;
+    text-align: center;
+}
+
+.tab {
+    display: flex;
+}
+
+div {
+    height: 300px;
+    width: 150px;
+    border: 6px solid white;
+}
+
+#one {
+    background: #9400D3;
+}
+
+#two {
+    background: #4B0082;
+}
+
+#three {
+    background: #0000FF;
+}
+
+#four {
+    background: #00FF00;
+}
+
+#five {
+    background: #FFFF00;
+}
+
+#six {
+    background: #FF7F00;
+}
+
+#seven {
+    background: #FF0000;
+}
