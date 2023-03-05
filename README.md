@@ -12,6 +12,7 @@
 ####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[08.table-project](./01.%20HTML-Projects/08.table-project/)**
 ####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[09.contact-us-form-project](./01.%20HTML-Projects/09.contact-us-form-project/)**
 
+<hr>
 <br>
 
 ## **[2. CSS Projects](./01.%20HTML-Projects)**
