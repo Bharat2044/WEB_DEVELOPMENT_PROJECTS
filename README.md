@@ -11,6 +11,8 @@
 ####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[07.blog-page-project](./01.%20HTML-Projects/07.blog-page-project/)**
 ####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[08.table-project](./01.%20HTML-Projects/08.table-project/)**
 ####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[09.contact-us-form-project](./01.%20HTML-Projects/09.contact-us-form-project/)**
+####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[10.oscor-award-winner-list-project](./01.%20HTML-Projects/10.oscor-award-winner-list-project/)**
+####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[11.bar-and-restrurant-project](./01.%20HTML-Projects/11.bar-and-restrurant-project/)**
 
 <br>
 <hr>
