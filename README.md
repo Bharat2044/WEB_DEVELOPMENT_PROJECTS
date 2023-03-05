@@ -48,6 +48,9 @@
 ####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[26.media-queries-project 1](./02.%20CSS-Projects/26.media-queries-project%201/)**
 ####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[27.media-queries-project 2](./02.%20CSS-Projects/27.media-queries-project%202/)**
 ####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[28.card-design-project](./02.%20CSS-Projects/28.card-design-project/)**
+####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[29.vibgyor-implementation-project](./02.%20CSS-Projects/29.vibgyor-implementation-project/)**
+####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[30.chess-board-implementation-project](./02.%20CSS-Projects/30.chess-board-implementation-project/)**
+####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[31.tic-toc-toe-implementation-project](./02.%20CSS-Projects/31.tic-toc-toe-implementation-project/)**
 
 <br>
 <hr>
