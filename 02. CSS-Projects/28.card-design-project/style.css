@@ -1,0 +1,118 @@
+* {    
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    font-family: 'Poppins', sans-serif;
+    background-color: rgb(195, 195, 195);
+    color: grey;
+}
+
+.card {
+    width: 300px;
+    height: 450px;
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(235, 235, 235);
+    border-radius: 15px;
+    box-shadow: 5px 5px 5px grey, -5px -5px 5px white;
+}
+
+.top-section {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.profile-image {
+    width: 140px;
+    margin: auto;
+    border-radius: 50%;
+    box-shadow: 2px 2px 2px grey, -2px -2px 2px white;
+}
+
+.profile-name {
+    font-weight: 600;
+}
+.profile-detail {
+    font-weight: 500;
+}
+
+.social-media {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: space-around;
+}
+.social-media a {
+    text-decoration: none;
+    font-size: 30px;
+}
+.social-media a:nth-child(1){
+    color: blue;
+}
+.social-media a:nth-child(2){
+    color: #1C96E8;
+}
+.social-media a:nth-child(3){
+    color: rgb(232, 73, 100);
+}
+.social-media a:nth-child(4){
+    color: red;
+}
+
+.btn {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.btn button {
+    padding: 5px 15px;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px grey, -2px -2px 2px white;
+    color: gray;
+    font-weight: 600;
+    margin-top: 5px;
+}
+
+.like-comment {
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    align-items: center;
+    margin: auto;
+}
+.heart {
+    display: flex;
+    align-items: center;
+}
+.comment {
+    display: flex;
+    align-items: center;
+}
+.share {
+    display: flex;
+    align-items: center;
+}
+i+p {
+    margin-left: 4px;
+}
+
+.pi {
+    font-size: 20px;
+    font-weight: 600;
+}

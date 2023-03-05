@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    border: 0;
+    box-sizing: border-box;
+    background-color: #CFDFE0;
+}
+
+.btn-wrapper{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btn{
+    text-transform: uppercase;
+    color: #fff;
+    cursor: pointer;
+}
+.btn-text-one{
+    background-color: #00174D;
+    font-size: 22px;
+    letter-spacing: 2px;
+    border-radius: 50px;
+    padding: 20px 30px;
+}
+.btn-text-two{
+    display: none;
+}

@@ -1,0 +1,138 @@
+body {
+    background-image: url("./images/bg.png");
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    margin: 0 5%;
+}
+
+/* navbar */
+nav {
+    display: flex;
+    height: 20vh;
+}
+
+.nav-logo {
+    display: flex;
+}
+
+.brand-img {
+    flex: 1;
+    margin: auto;
+}
+
+.brand-img img {
+    height: 75px;
+}
+
+nav .nav-items {
+    display: flex;
+    flex: 2;
+    justify-content: space-between;
+    align-items: center;
+    list-style-type: none;
+}
+
+.nav-link {
+    text-decoration: none;
+    color: #fff;
+    font-size: 25px;
+    cursor: pointer;
+}
+
+.nav-link:hover {
+    text-decoration: underline;
+    color: #f61515;
+    font-weight: 800;
+}
+
+nav .nav-menu-icon {
+    display: none;
+}
+
+.nav-btn {
+    background-color: #E03B8B;
+    border: none;
+    color: #fff;
+    font-size: 25px;
+    padding: 5px 40px;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: box-shadow 300ms ease-in-out 0.5s, color 300ms ease-in-out;
+}
+
+.nav-btn:hover {
+    box-shadow: 0 0 40px 40px #1f1f1f inset;
+}
+
+/* main */
+.container {
+    display: flex;
+    flex-direction: row;
+    height: 80vh;
+    flex: 1;
+}
+
+.col {
+    display: flex;
+    flex: 0.5;
+    min-height: 100%;
+}
+
+.col-left {
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    color: #fff;
+}
+
+.col-left p {
+    font-size: 25px;
+}
+
+.col-left h1 {
+    font-size: 60px;
+    margin: 20px 0;
+}
+
+.col-right {
+    overflow: hidden;
+}
+
+.google-play-img{
+    height: 90px;
+}
+
+.phone-img {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    height: 80%;
+}
+
+/* media-queries */
+@media screen and (max-width: 1200px) {
+    .phone-img {
+        height: 60%;
+    }
+    nav .nav-items {
+        display: none;
+    }
+    nav .nav-menu-icon {
+        display: block;
+        margin: auto;
+    }
+    nav .nav-menu-icon i {
+        color: #fff;
+        font-size: 30px;
+    }
+}
+
+@media (max-width: 900px) {
+    .phone-img {
+        display: none;
+      }
+      .google-play-img {
+            height: 50px;
+      }
+}

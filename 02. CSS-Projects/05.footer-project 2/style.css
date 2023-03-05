@@ -1,0 +1,141 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: 0;
+    border: 0;
+}
+body{    
+    height: 100vh;
+    overflow: hidden;
+    font-family: sans-serif;
+}
+
+footer {
+    height: 50%;
+    width: 100%;
+    display: flex;
+    margin-top: 50vh;
+    background-color: #140A5C;
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center;
+    align-items: center; */
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+}
+
+.top {
+    margin: 1.5% 8%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.fa-slack, .logo_name{
+    color: #FFF;
+    font-size: 25px;
+}
+.media-icons{
+    display: flex;
+    width: 22%;
+    justify-content: space-between;
+}
+.media-icons .fa-facebook-f {
+    color: #FFF;
+    background-color: #4267B2;
+}
+.media-icons a {
+    text-decoration: none;
+    cursor: pointer;
+}
+.media-icons i{
+    color: #FFF;
+    height: 35px;
+    width: 35px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.media-icons .fa-twitter {
+    background-color: #1EA1F1;
+}
+.media-icons .fa-instagram {
+    background-color: #DE2F6C;
+}
+.media-icons .fa-linkedin-in {
+    background-color: #0275B4;
+}
+.media-icons .fa-youtube {
+    background-color: #FF0000;
+}
+.hr{
+    height: 1px;
+    background-color: #8983b7;
+}
+
+
+.link-boxes{
+    margin: 1.5% 8%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    color: #FFF;
+}
+ul{
+    list-style: none;
+}
+ul li a{
+    text-decoration: none;
+    color: #FFF;
+    font-size: 12px;
+}
+.link_name{
+    font-size: 16px;
+    font-weight: 300;
+    width: 30px;
+    padding-bottom: 5px;
+    border-bottom: 2px #FFF solid;
+}
+.box{
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+input{
+    width: 200px;
+    padding: 8px;
+    border-radius: 5px;
+}
+input[type="text"] {
+    color: #ffffffd7;
+    background: transparent;
+    border: 1.5px solid #ffffffd7;
+}
+input[type="button"] {
+    color: #140A5C;
+    background-color: #FFF;
+    font-weight: 600;
+}
+
+
+
+.bottom-details{
+    background-color: #0F0844;
+    padding: 14px;
+    position: relative;
+}
+.bottom_text{  
+    margin: 0 7%;  
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+span, span a{
+    color: #D7D6E0;
+    text-decoration: none;
+    font-size: 14px;
+}

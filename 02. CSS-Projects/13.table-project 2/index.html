@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./style.css" />
+    <title>iNeuron</title>
+  </head>
+  <body>
+    <h1> Tables </h1>
+    <hr>
+    <table id="myTable" cellpadding="10">
+      <caption>My TimeTable</caption>
+      
+      <tr>
+        <th id = "myTitle" colspan="4">Fall Term</th>
+      </tr>
+      
+      <tr>
+        <th></th>
+        <th scope="col">Wed</th>
+        <th scope="col">Thur</th>
+        <th scope="col">Fri</th>
+      </tr>
+      
+      <tr>
+        <th scope="row">8:00</th>
+        <td rowspan="2">English</td>
+        <td rowspan="2">Art</td>
+        <td rowspan="2">English</td>
+      </tr>
+      
+      <tr>
+        <th scope="row">8:30</th>
+      </tr>
+      
+      <tr>
+        <th scope="row">9:00</th>
+        <td>Math (test)</td>
+        <td>Music</td>
+        <td>Math</td>
+      </tr>
+      
+      <tr>
+        <th scope="row">9:45</th>
+        <td>English</td>
+        <td>Chinese (test)</td>
+        <td>Chinese</td>
+      </tr>
+    </table>
+</html>

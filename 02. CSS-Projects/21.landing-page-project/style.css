@@ -1,0 +1,132 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow: hidden;
+    font-family: 'Archivo', sans-serif;
+    font-family: 'Merriweather', serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+body{
+    height: 100vh;
+    width: 100vw;
+    background-color: #edf1fd;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+li {
+    list-style: none;
+    cursor: pointer;
+}
+
+a {
+    text-decoration: none;
+}
+
+button {
+    background-color: rgb(18, 155, 155);
+    padding: 4px 10px;
+    cursor: pointer;
+    color: white;
+    border: 1px solid white;
+    border-radius: 5px;
+    font-weight: 700;
+    width: fit-content;
+}
+
+button:hover {
+    background-color: white;
+    color: black;
+    border: 1px solid black;
+}
+header{
+    padding-top: 5px;
+}
+nav {
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    align-items: center;
+}
+nav ul{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    font-weight: 500;
+}
+nav ul li:hover {
+    text-decoration: underline;
+    font-weight: 900;
+}
+.search-field {
+    display: flex;
+    gap: 35px;
+}
+input {
+    padding: 4px 10px;
+}
+
+.hero-section {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-left: 20px;
+}
+.left-hero-section h1 {
+    font-size: 40px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+.left-hero-section h1 span {
+    color: rgb(18, 155, 155);
+    font-size: 1.5rem;
+    font-weight: 900;
+}
+.left-hero-section p {
+    font-weight: 500;
+}
+.left-hero-section p span{
+    color: rgb(18, 155, 155);
+    font-size: 25px;
+    font-weight: 700;
+}
+.right-hero-section {
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+    align-items: center;
+    justify-content: center;
+}
+.right-hero-section-btn {
+    display: flex;
+    align-items: center;
+    gap: 50px;
+}
+.right-hero-section img {
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+}
+
+footer {
+    font-weight: 600;
+    display: flex;
+    padding: 20px 0;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+footer ul {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    font-size: 30px;
+}
+footer ul li a i:hover{
+    color: black;
+    cursor: pointer;
+    font-weight: 900;
+}

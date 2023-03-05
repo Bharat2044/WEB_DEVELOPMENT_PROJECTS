@@ -1,0 +1,122 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;900&display=swap");
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: linear-gradient(90deg, #00d2ff 0%, #3a47d5 100%);
+    color: #ffffff;
+    box-sizing: border-box;
+}
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 60px 0 60px;
+    margin-top: 30px;
+}
+.logo img{
+    width: 50px;
+}
+.lists {
+    display: flex;
+    align-items: center;
+    gap: 63px;
+    list-style: none;
+}
+li a {    
+    font-family: "Red Rose";
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    color: #000003;
+}
+li a:hover {
+    color: #f41111;
+    font-weight: 900;
+    text-decoration: underline;
+}
+.logo, .list-item {
+  cursor: pointer;
+}
+.nav-btn {
+    padding: 12px 40px;
+    background-color: #ff505f;
+    border: none;
+    font-family: "Red Rose";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 30px;
+    color: #ffffff;
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+h1 {
+    font-size: 70px;
+    text-align: center;
+    margin-top: 7%;
+    color: #ffffff;
+    font-family: "Montserrat";
+    font-weight: 500;
+}
+
+span {
+    color: #1f1f1f;
+    font-size: 100px;
+    font-weight: 900;
+}
+
+p {
+    text-align: center;
+    font-size: 25px;
+    letter-spacing: 2px;
+    margin-bottom: 20px;
+}
+
+button {
+    margin: auto;
+    display: block;
+}
+
+.btn {
+    background-color: transparent;
+    border: 2px solid #1f1f1f;
+    border-radius: 0.5em;
+    color: #1f1f1f;
+    background-color: yellow;
+    font-size: 1.2rem;
+    padding: 1.2em 2.5em;
+    cursor: grab;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: "Montserrat";
+    font-weight: 800;
+}
+
+.btn:hover {
+    color: #ffffff;
+    outline: 5px solid #00d2ff;
+}
+
+.lco {
+    transition: box-shadow 300ms ease-in-out 0.5s, color 300ms ease-in-out;
+}
+  
+.lco:hover {
+    box-shadow: 0 0 40px 40px #1f1f1f inset;
+}
+
+.footer {
+    position: fixed;
+    width: 100%;
+    text-align: center;
+    padding: 10px;
+    left: 0;
+    bottom: 0;
+    background-color: black;
+}
