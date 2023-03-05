@@ -44,3 +44,10 @@
 ####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[26.media-queries-project 1](./02.%20CSS-Projects/26.media-queries-project%201/)**
 ####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[27.media-queries-project 2](./02.%20CSS-Projects/27.media-queries-project%202/)**
 ####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[28.card-design-project](./02.%20CSS-Projects/28.card-design-project/)**
+
+<br>
+<hr>
+
+## **[5. JavaScript Projects](./05.%20JavaScript-Projects/)**
+####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[01.color-changer-project](./05.%20JavaScript-Projects/01.color-changer-project/)**
+####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[02.counter-app-project](./05.%20JavaScript-Projects/02.counter-app-project/)**
