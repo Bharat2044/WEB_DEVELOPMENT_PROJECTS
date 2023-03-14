@@ -51,6 +51,9 @@
 ####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[29.vibgyor-implementation-project](./02.%20CSS-Projects/29.vibgyor-implementation-project/)**
 ####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[30.chess-board-implementation-project](./02.%20CSS-Projects/30.chess-board-implementation-project/)**
 ####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[31.tic-toc-toe-implementation-project](./02.%20CSS-Projects/31.tic-toc-toe-implementation-project/)**
+####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[32.beats-page-project](./02.%20CSS-Projects/32.beats-page-project/)**
+####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[33.real-state-project](./02.%20CSS-Projects/33.real-state-project/)**
+####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[34.multi-page-website-project](./02.%20CSS-Projects/34.multi-page-website-project/)**
 
 <br>
 <hr>
