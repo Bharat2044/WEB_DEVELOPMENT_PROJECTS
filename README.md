@@ -58,6 +58,15 @@
 <br>
 <hr>
 
+## **[3. Bootstrap Projects](./03.%20Bootstrap-Project/)**
+####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[01.album-project](./03.%20Bootstrap-Project/01.album-project/)**
+
+<br>
+<hr>
+
 ## **[5. JavaScript Projects](./05.%20JavaScript-Projects/)**
 ####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[01.color-changer-project](./05.%20JavaScript-Projects/01.color-changer-project/)**
 ####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[02.counter-app-project](./05.%20JavaScript-Projects/02.counter-app-project/)**
+####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[03.image-slider-project](./05.%20JavaScript-Projects/03.image-slider-project/)**
+####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[04.todo-app-project](./05.%20JavaScript-Projects/04.todo-app-project/)**
+####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[05.move-image-project](./05.%20JavaScript-Projects/05.move-image-project/)**
