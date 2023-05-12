@@ -1,4 +1,4 @@
-# **`WEB_DEVELOPMENT_PROJECTS`**
+# **`WEB DEVELOPMENT PROJECTS`**
 <hr>
 
 ## **[1. HTML Projects](./01.%20HTML-Projects)**
