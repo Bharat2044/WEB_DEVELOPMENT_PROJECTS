@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Event Registration Form</title>
+</head> 
+<body>
+    <h2>Event Registration Form</h2>
+    <form>
+        <label for="name">Name</label><br>
+        <input type="text" id="name" name="name">
+        <br><br>
+        
+        <label for="email">Email ID</label><br>
+        <input type="email" id="email" name="email">
+        <br><br>
+        
+        <label for="phone">Phone No.</label><br>
+        <input type="tel" id="phone" name="phone">
+        <br><br>
+        
+        <label for="occupationType">Occupation</label><br>
+        <select name="occupationType" id="occupationType">
+            <option value="student">Student</option>
+            <option value="professor">Professor</option>
+            <option value="other">Other</option>
+        </select>
+        <br><br>
+
+        <fieldset>
+            <legend>Topics of Interest</legend>
+            
+            <label for="checkbox1">HTML</label>
+            <input type="checkbox" name="HTML" id="checkbox1"><br>
+            
+            <label for="checkbox1">CSS</label>
+            <input type="checkbox" name="CSS" id="checkbox2"><br>
+            
+            <label for="checkbox3">JavaScript</label>
+            <input type="checkbox" name="JavaScript" id="checkbox3"><br>
+        </fieldset>
+        <br><br>
+
+        <label for="textarea1">Comments</label><br>
+        <textarea name="textarea1" id="textarea1" cols="30" rows="5" placeholder="Write from here..."></textarea>
+        <br><br>
+
+        <input type="submit" value="Register">
+    </form>
+</body>
+</html>
