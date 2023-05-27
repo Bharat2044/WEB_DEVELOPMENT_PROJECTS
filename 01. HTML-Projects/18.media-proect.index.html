@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Media File Project</title>
+</head>
+<body>
+    <h2>Logo</h2>
+    <img src="./logo.png" alt="logoImage" width="80" loading="lazy" />
+    <br>
+
+    <h2>Image</h2>
+    <picture>
+        <source media="(min-width:650px)" srcset="./image.jpg">
+        <source media="(min-width:465px)" srcset="./image.jpg">
+        <img src="./image.jpg" alt="logoImage" width="400" height="300">
+    </picture>
+    <br>
+
+    <h2>Audio</h2>
+    <!-- <audio src="./sample-audio.mp3" controls>Audio File</audio> -->
+    <audio controls>
+        <source src="./sample-audio.mp3">
+        Audio File
+    </audio>
+    <br>
+
+    <h2>Video</h2>
+    <!-- <video src="./sample-video.mp4" controls width="300" Video File></video> -->
+    <video controls width="400">
+        <source src="./sample-video.mp4">
+        Video File
+    </video>
+    <br>
+
+    <h2>Iframe</h2>
+    <iframe width="400" height="315" src="https://www.youtube.com/embed/9udS0mpi1L4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    
+</body> 
+</html>
