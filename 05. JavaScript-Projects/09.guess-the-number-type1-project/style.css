@@ -1,0 +1,77 @@
+/* Container for centering content */
+.container {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	height: 100vh;
+	background-color: #3D4B52;
+	color: #F2EFEA;
+	font-family: Arial, sans-serif;
+}
+
+/* Heading and paragraph styles */
+h1, p {
+	margin: 0 0 20px 0;
+	text-align: center;
+}
+
+h1 {
+	font-size: 48px;
+	font-weight: bold;
+}
+
+/* Input and button styles */
+input[type="text"], button {
+	font-size: 24px;
+	padding: 10px;
+	border-radius: 5px;
+	border: none;
+}
+
+input[type="text"] {
+	width: 200px;
+	margin-right: 10px;
+	background-color: #F2EFEA;
+	color: #3D4B52;
+}
+
+button {
+	background-color: #cab38b;
+	color: #313184;
+    font-weight: 600;
+    margin-top: 10px;
+	cursor: pointer;
+	transition-duration: 0.4s;
+}
+
+button:hover {
+	background-color: #8CBEB2;
+	color: #3D4B52;
+}
+
+/* Message styles */
+#message {
+	font-size: 24px;
+	font-weight: bold;
+	margin-top: 20px;
+	text-align: center;
+}
+
+/* Animation for message */
+#message.correct {
+	animation-name: pulse;
+	animation-duration: 0.5s;
+}
+
+@keyframes pulse {
+	from {
+		transform: scale(1);
+	}
+	50% {
+		transform: scale(1.1);
+	}
+	to {
+		transform: scale(1);
+	}
+}
