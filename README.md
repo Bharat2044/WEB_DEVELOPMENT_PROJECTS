@@ -80,4 +80,5 @@
 ####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[06.background-color-switcher-project](./05.%20JavaScript-Projects/06.background-color-switcher-project/ "background-color-switcher-project")**
 ####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[07_bmi-calculator-project](./05.%20JavaScript-Projects/07_bmi-calculator-project/ "bmi-calculator-project")**
 ####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[08.digital-clock-project](./05.%20JavaScript-Projects/08.digital-clock-project/ "digital-clock-project")**
-####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[09.guess-the-number-project](./05.%20JavaScript-Projects/09.guess-the-number-project/ "guess-the-number-project")**
+####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[09.guess-the-number-type1-project](./05.%20JavaScript-Projects/09.guess-the-number-type1-project/ "guess-the-number-type1-project")**
+####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[10.guess-the-number-type2-project](./05.%20JavaScript-Projects/10.guess-the-number-type2-project/ "guess-the-number-type2-project")**
