@@ -14,6 +14,14 @@
 ####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[10.oscor-award-winner-list-project](./01.%20HTML-Projects/10.oscor-award-winner-list-project/)**
 ####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[11.bar-and-restrurant-project](./01.%20HTML-Projects/11.bar-and-restrurant-project/)**
 ####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[12.matrimonial-application-project](./01.%20HTML-Projects/12.matrimonial-application-project/)**
+####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[13.resume-project](./01.%20HTML-Projects/13.resume-project/)**
+####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[14.job-pplication-project](./01.%20HTML-Projects/14.job-pplication-project/)**
+####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[15.personal-information-form-project](./01.%20HTML-Projects/15.personal-information-form-project/)**
+####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[16.event-registration-form-project](./01.%20HTML-Projects//16.event-registration-form-project/)**
+####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[17.time-table-project](./01.%20HTML-Projects/17.time-table-project/)**
+####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[18.media-1-project](./01.%20HTML-Projects/18.media-1-project/)**
+####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[19.media-2-project](./01.%20HTML-Projects/19.media-2-project/)**
+####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[20.search-engine-project](./01.%20HTML-Projects/20.search-engine-project/)**
 
 <br>
 <hr>
@@ -64,8 +72,12 @@
 <hr>
 
 ## **[5. JavaScript Projects](./05.%20JavaScript-Projects/)**
-####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[01.color-changer-project](./05.%20JavaScript-Projects/01.color-changer-project/)**
-####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[02.counter-app-project](./05.%20JavaScript-Projects/02.counter-app-project/)**
-####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[03.image-slider-project](./05.%20JavaScript-Projects/03.image-slider-project/)**
-####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[04.todo-app-project](./05.%20JavaScript-Projects/04.todo-app-project/)**
-####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[05.move-image-project](./05.%20JavaScript-Projects/05.move-image-project/)**
+####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[01.color-changer-project](./05.%20JavaScript-Projects/01.color-changer-project/ "color-changer-project")**
+####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[02.counter-app-project](./05.%20JavaScript-Projects/02.counter-app-project/ "counter-app-project")**
+####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[03.image-slider-project](./05.%20JavaScript-Projects/03.image-slider-project/ "image-slider-project")**
+####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[04.todo-app-project](./05.%20JavaScript-Projects/04.todo-app-project/ "todo-app-project")**
+####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[05.move-image-project](./05.%20JavaScript-Projects/05.move-image-project/ "move-image-project")**
+####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[06.background-color-switcher-project](./05.%20JavaScript-Projects/06.background-color-switcher-project/ "background-color-switcher-project")**
+####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[07_bmi-calculator-project](./05.%20JavaScript-Projects/07_bmi-calculator-project/ "bmi-calculator-project")**
+####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[08.digital-clock-project](./05.%20JavaScript-Projects/08.digital-clock-project/ "digital-clock-project")**
+####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[09.guess-the-number-project](./05.%20JavaScript-Projects/09.guess-the-number-project/ "guess-the-number-project")**
